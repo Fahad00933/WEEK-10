@@ -1,5 +1,5 @@
 # WEEK-10
-#knowledge of Kubernetes and container orchestration
+# knowledge of Kubernetes and container orchestration
 Kubernetes is a powerful container orchestration platform that has become the de facto standard for managing containerized applications. To advance your knowledge of Kubernetes and container orchestration, consider exploring the following areas:
 
 1. Operators: Kubernetes operators extend the platform's functionality by providing custom resources and controllers for managing complex applications. Operators allow you to automate the deployment, scaling, and management of stateful applications within Kubernetes. Understanding operators and creating custom operators will enhance your ability to handle complex application scenarios.
@@ -24,7 +24,7 @@ Kubernetes is a powerful container orchestration platform that has become the de
 
 Remember to experiment hands-on with Kubernetes by setting up your own cluster, practicing deployment scenarios, and exploring real-world use cases. The Kubernetes documentation, online tutorials, and community resources like Kubernetes Slack channels and forums are valuable sources of information as you advance your Kubernetes knowledge and skills.
 
-#Advancing security in DevOps
+# Advancing security in DevOps
 
 
 When it comes to advancing security in DevOps, it's essential to embed security practices throughout the entire software development and deployment lifecycle. Here are some key areas to focus on:
